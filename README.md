@@ -1,4 +1,10 @@
-# AI for Product Managers
+Project Name: **# AI for Product Managers**
+
+### Project Walkthrough Video 
+
+
+https://github.com/user-attachments/assets/fccd6167-5172-41c0-b64d-a82dbeca4078
+
 
 **An Agentic AI Platform for Product Management Intelligence**
 
